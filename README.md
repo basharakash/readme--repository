@@ -1,3 +1,4 @@
+git status
 <!-- markdown tutorial-->
 
 bashar akash  
@@ -108,6 +109,9 @@ text-align: center;
 - [X] task 3
 - [] task 3
 
+</br>
+
+### i have been passed HSC in 2018
 
 </br>
 
