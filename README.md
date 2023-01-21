@@ -113,6 +113,8 @@ text-align: center;
 
 ### i have been passed HSC in 2018
 
+### i will complete my bsc in 2024
+
 </br>
 
 ## link 
