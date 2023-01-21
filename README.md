@@ -173,7 +173,7 @@ http://www.basharakash.com
 ## table syntax 
 
 | Name | Email |
-| ---- | ------ |
+| --------------- | -------------- |
 | bashar akash | this is here |
 | bashar akash | akashh889007@gmail.com |
 | bashar akash | rahmanakash@gmail.com |
